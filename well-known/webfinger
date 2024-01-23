@@ -1,9 +1,0 @@
-{
-  "subject": "acct:miles@sso.rutynet.com",
-  "links": [
-    {
-      "rel": "http://openid.net/specs/connect/1.0/issuer",
-      "href": "https://sso.rutynet.com/application/o/tailscale/"
-    }
-  ]
-}
